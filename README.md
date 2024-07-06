@@ -1,1 +1,2 @@
 # BM2102---Modelling-and-Analysis-of-Physiological-Systems
+This repository contains all the assignments which were done for the module Modelling and Analysis of Physiological System. After completing this moduls we were able to Interpret biological systems from an engineering perspective, Construct computational models to analyse physiological systems ,Analyse the limitations of physiological models.
